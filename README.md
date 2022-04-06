@@ -13,3 +13,11 @@ npm install
 cd ..
 npm run devStart
 ```
+
+
+Functionalities to add
+<ul>
+    <li>File Upload</li>
+    <li>Form Builder</li>
+    <li></li>
+</ul>
